@@ -44,17 +44,6 @@ Each team is associated with its respective coaches, players, and stadiums.
 
 The project uses [XAMPP](https://www.apachefriends.org/index.html) as the server environment to host the MySQL database. XAMPP provides a simple and effective way to set up a local web server environment for your project.
 
-## Getting Started
-
-1. Clone this repository to your local machine.
-2. Install XAMPP if you haven't already and start the Apache and MySQL servers.
-3. Import the SQL file containing the NBA database schema and initial data into your MySQL server. You can use phpMyAdmin or the MySQL command line for this purpose.
-
-## Usage
-
-- You can access and interact with the NBA Database through your preferred database client or by using a web-based application that connects to the database.
-- You can insert , delete as well as update entries. 
-
 ## Table IDs
 
 For your reference, here are the Table IDs used in the project:
